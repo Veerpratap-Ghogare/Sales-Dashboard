@@ -11,5 +11,3 @@ Monthly and quarterly sales performance summaries
 Top-performing products and regional analysis
 
 User-friendly interface with responsive design
-
-https://github.com/Veerpratap-Ghogare/Sales-Dashboard/blob/main/Sales%20Dashboard%20overwiew.png
